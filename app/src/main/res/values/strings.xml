@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AndWallet</string>
+    <string name="error_message">This field cannot be empty</string>
+    <string name="error_tag">MajorError</string>
+    <string name="income_text">Income : $%d</string>
+    <string name="expenses_text">Expenses : $%d </string>
+    <string name="balance_text">Balance : $%d</string>
+    <string name="pin_code">7832</string>
+    <string name="tvBalancesText">Your current balances are as follows</string>
+    <string name="title_hint">Title</string>
+    <string name="amount_hint">Amount</string>
+    <string name="expense_btn">Expense</string>
+    <string name="save_btn">Save</string>
+    <string name="balance_0">Balance: 0</string>
+    <string name="enter_pin">Enter Pin</string>
+    <string name="delete_btn">Delete</string>
+
+</resources>
